@@ -1,4 +1,4 @@
-# 📚 Algoritma Tasarım Proje 2
+# 📚 DERS YÖNETİM VE TAKİP SİSTEMİ
 
 Bu proje, C++ kullanılarak geliştirilmiş basit bir **öğrenci, ders ve derslik yönetim sistemidir**.  
 Sistem, dosyalardan veri okuyarak işlemler yapar ve sonuçları raporlar.
