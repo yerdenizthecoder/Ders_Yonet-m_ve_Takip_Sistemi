@@ -1,0 +1,706 @@
+RAPORLAR
+
+OGRENCI: Yigit Akyuz
+AKTS LIMITI: 24
+IZLENEN ROTA: [100] -> [110] -> [109] -> [103] -> [107] -> [114] -> [108] -> [112] -> [106]
+------------------------------------
+TOPLAM YURUME MESAFESI: 2580 metre
+------------------------------------
+GIRILEN DERSLER (8):
+  1. Ýstatistik  (Derslik: 110, Saat: 8:00)
+  2. Yabancý Dil II (Ýngilizce)    (Derslik: 109, Saat: 9:00)
+  3. Türk Dili I (Derslik: 103, Saat: 10:00)
+  4. Lineer Cebir (Derslik: 107, Saat: 11:00)
+  5. Mesleki Yabancý Dil I (Derslik: 114, Saat: 12:00)
+  6. Türk Dili II (Derslik: 108, Saat: 13:00)
+  7. Veri Yapýlarý (Derslik: 112, Saat: 14:00)
+  8. Algoritmalar ve Programlama (Derslik: 106, Saat: 15:00)
+DURUM: TAMAMLANDI
+====================================
+
+OGRENCI: Ada Kurutluoglu
+AKTS LIMITI: 24
+IZLENEN ROTA: [100] -> [110] -> [109] -> [103] -> [107] -> [114] -> [108] -> [112] -> [106]
+------------------------------------
+TOPLAM YURUME MESAFESI: 2580 metre
+------------------------------------
+GIRILEN DERSLER (8):
+  1. Ýstatistik  (Derslik: 110, Saat: 8:00)
+  2. Yabancý Dil II (Ýngilizce)    (Derslik: 109, Saat: 9:00)
+  3. Türk Dili I (Derslik: 103, Saat: 10:00)
+  4. Lineer Cebir (Derslik: 107, Saat: 11:00)
+  5. Mesleki Yabancý Dil I (Derslik: 114, Saat: 12:00)
+  6. Türk Dili II (Derslik: 108, Saat: 13:00)
+  7. Veri Yapýlarý (Derslik: 112, Saat: 14:00)
+  8. Algoritmalar ve Programlama (Derslik: 106, Saat: 15:00)
+DURUM: TAMAMLANDI
+====================================
+
+OGRENCI: Irem Karabulut
+AKTS LIMITI: 24
+IZLENEN ROTA: [100] -> [110] -> [109] -> [103] -> [107] -> [114] -> [108] -> [112] -> [106]
+------------------------------------
+TOPLAM YURUME MESAFESI: 2580 metre
+------------------------------------
+GIRILEN DERSLER (8):
+  1. Ýstatistik  (Derslik: 110, Saat: 8:00)
+  2. Yabancý Dil II (Ýngilizce)    (Derslik: 109, Saat: 9:00)
+  3. Türk Dili I (Derslik: 103, Saat: 10:00)
+  4. Lineer Cebir (Derslik: 107, Saat: 11:00)
+  5. Mesleki Yabancý Dil I (Derslik: 114, Saat: 12:00)
+  6. Türk Dili II (Derslik: 108, Saat: 13:00)
+  7. Veri Yapýlarý (Derslik: 112, Saat: 14:00)
+  8. Algoritmalar ve Programlama (Derslik: 106, Saat: 15:00)
+DURUM: TAMAMLANDI
+====================================
+
+OGRENCI: Efe Demirel
+AKTS LIMITI: 24
+IZLENEN ROTA: [100] -> [110] -> [109] -> [103] -> [107] -> [114] -> [108] -> [112] -> [106]
+------------------------------------
+TOPLAM YURUME MESAFESI: 2580 metre
+------------------------------------
+GIRILEN DERSLER (8):
+  1. Ýstatistik  (Derslik: 110, Saat: 8:00)
+  2. Yabancý Dil II (Ýngilizce)    (Derslik: 109, Saat: 9:00)
+  3. Türk Dili I (Derslik: 103, Saat: 10:00)
+  4. Lineer Cebir (Derslik: 107, Saat: 11:00)
+  5. Mesleki Yabancý Dil I (Derslik: 114, Saat: 12:00)
+  6. Türk Dili II (Derslik: 108, Saat: 13:00)
+  7. Veri Yapýlarý (Derslik: 112, Saat: 14:00)
+  8. Algoritmalar ve Programlama (Derslik: 106, Saat: 15:00)
+DURUM: TAMAMLANDI
+====================================
+
+OGRENCI: Ebru Koyluoglu
+AKTS LIMITI: 24
+IZLENEN ROTA: [100] -> [110] -> [109] -> [103] -> [107] -> [114] -> [108] -> [112] -> [106]
+------------------------------------
+TOPLAM YURUME MESAFESI: 2580 metre
+------------------------------------
+GIRILEN DERSLER (8):
+  1. Ýstatistik  (Derslik: 110, Saat: 8:00)
+  2. Yabancý Dil II (Ýngilizce)    (Derslik: 109, Saat: 9:00)
+  3. Türk Dili I (Derslik: 103, Saat: 10:00)
+  4. Lineer Cebir (Derslik: 107, Saat: 11:00)
+  5. Mesleki Yabancý Dil I (Derslik: 114, Saat: 12:00)
+  6. Türk Dili II (Derslik: 108, Saat: 13:00)
+  7. Veri Yapýlarý (Derslik: 112, Saat: 14:00)
+  8. Algoritmalar ve Programlama (Derslik: 106, Saat: 15:00)
+DURUM: TAMAMLANDI
+====================================
+
+OGRENCI: Serhan Oztuna
+AKTS LIMITI: 24
+IZLENEN ROTA: [100] -> [110] -> [109] -> [103] -> [107] -> [114] -> [108] -> [112] -> [106]
+------------------------------------
+TOPLAM YURUME MESAFESI: 2580 metre
+------------------------------------
+GIRILEN DERSLER (8):
+  1. Ýstatistik  (Derslik: 110, Saat: 8:00)
+  2. Yabancý Dil II (Ýngilizce)    (Derslik: 109, Saat: 9:00)
+  3. Türk Dili I (Derslik: 103, Saat: 10:00)
+  4. Lineer Cebir (Derslik: 107, Saat: 11:00)
+  5. Mesleki Yabancý Dil I (Derslik: 114, Saat: 12:00)
+  6. Türk Dili II (Derslik: 108, Saat: 13:00)
+  7. Veri Yapýlarý (Derslik: 112, Saat: 14:00)
+  8. Algoritmalar ve Programlama (Derslik: 106, Saat: 15:00)
+DURUM: TAMAMLANDI
+====================================
+
+OGRENCI: Ege Akal
+AKTS LIMITI: 24
+IZLENEN ROTA: [100] -> [110] -> [109] -> [103] -> [107] -> [114] -> [108] -> [112] -> [106]
+------------------------------------
+TOPLAM YURUME MESAFESI: 2580 metre
+------------------------------------
+GIRILEN DERSLER (8):
+  1. Ýstatistik  (Derslik: 110, Saat: 8:00)
+  2. Yabancý Dil II (Ýngilizce)    (Derslik: 109, Saat: 9:00)
+  3. Türk Dili I (Derslik: 103, Saat: 10:00)
+  4. Lineer Cebir (Derslik: 107, Saat: 11:00)
+  5. Mesleki Yabancý Dil I (Derslik: 114, Saat: 12:00)
+  6. Türk Dili II (Derslik: 108, Saat: 13:00)
+  7. Veri Yapýlarý (Derslik: 112, Saat: 14:00)
+  8. Algoritmalar ve Programlama (Derslik: 106, Saat: 15:00)
+DURUM: TAMAMLANDI
+====================================
+
+OGRENCI: Esma Tokatlioglu
+AKTS LIMITI: 24
+IZLENEN ROTA: [100] -> [110] -> [109] -> [103] -> [107] -> [114] -> [108] -> [112] -> [106]
+------------------------------------
+TOPLAM YURUME MESAFESI: 2580 metre
+------------------------------------
+GIRILEN DERSLER (8):
+  1. Ýstatistik  (Derslik: 110, Saat: 8:00)
+  2. Yabancý Dil II (Ýngilizce)    (Derslik: 109, Saat: 9:00)
+  3. Türk Dili I (Derslik: 103, Saat: 10:00)
+  4. Lineer Cebir (Derslik: 107, Saat: 11:00)
+  5. Mesleki Yabancý Dil I (Derslik: 114, Saat: 12:00)
+  6. Türk Dili II (Derslik: 108, Saat: 13:00)
+  7. Veri Yapýlarý (Derslik: 112, Saat: 14:00)
+  8. Algoritmalar ve Programlama (Derslik: 106, Saat: 15:00)
+DURUM: TAMAMLANDI
+====================================
+
+OGRENCI: Burcu Kavaklioglu
+AKTS LIMITI: 24
+IZLENEN ROTA: [100] -> [110] -> [109] -> [103] -> [107] -> [114] -> [108] -> [112] -> [106]
+------------------------------------
+TOPLAM YURUME MESAFESI: 2580 metre
+------------------------------------
+GIRILEN DERSLER (8):
+  1. Ýstatistik  (Derslik: 110, Saat: 8:00)
+  2. Yabancý Dil II (Ýngilizce)    (Derslik: 109, Saat: 9:00)
+  3. Türk Dili I (Derslik: 103, Saat: 10:00)
+  4. Lineer Cebir (Derslik: 107, Saat: 11:00)
+  5. Mesleki Yabancý Dil I (Derslik: 114, Saat: 12:00)
+  6. Türk Dili II (Derslik: 108, Saat: 13:00)
+  7. Veri Yapýlarý (Derslik: 112, Saat: 14:00)
+  8. Algoritmalar ve Programlama (Derslik: 106, Saat: 15:00)
+DURUM: TAMAMLANDI
+====================================
+
+OGRENCI: Sarp Erturk
+AKTS LIMITI: 24
+IZLENEN ROTA: [100] -> [110] -> [109] -> [103] -> [107] -> [114] -> [108] -> [112] -> [106]
+------------------------------------
+TOPLAM YURUME MESAFESI: 2580 metre
+------------------------------------
+GIRILEN DERSLER (8):
+  1. Ýstatistik  (Derslik: 110, Saat: 8:00)
+  2. Yabancý Dil II (Ýngilizce)    (Derslik: 109, Saat: 9:00)
+  3. Türk Dili I (Derslik: 103, Saat: 10:00)
+  4. Lineer Cebir (Derslik: 107, Saat: 11:00)
+  5. Mesleki Yabancý Dil I (Derslik: 114, Saat: 12:00)
+  6. Türk Dili II (Derslik: 108, Saat: 13:00)
+  7. Veri Yapýlarý (Derslik: 112, Saat: 14:00)
+  8. Algoritmalar ve Programlama (Derslik: 106, Saat: 15:00)
+DURUM: TAMAMLANDI
+====================================
+
+OGRENCI: Emel Ozkok
+AKTS LIMITI: 24
+IZLENEN ROTA: [100] -> [110] -> [109] -> [103] -> [107] -> [114] -> [108] -> [112] -> [106]
+------------------------------------
+TOPLAM YURUME MESAFESI: 2580 metre
+------------------------------------
+GIRILEN DERSLER (8):
+  1. Ýstatistik  (Derslik: 110, Saat: 8:00)
+  2. Yabancý Dil II (Ýngilizce)    (Derslik: 109, Saat: 9:00)
+  3. Türk Dili I (Derslik: 103, Saat: 10:00)
+  4. Lineer Cebir (Derslik: 107, Saat: 11:00)
+  5. Mesleki Yabancý Dil I (Derslik: 114, Saat: 12:00)
+  6. Türk Dili II (Derslik: 108, Saat: 13:00)
+  7. Veri Yapýlarý (Derslik: 112, Saat: 14:00)
+  8. Algoritmalar ve Programlama (Derslik: 106, Saat: 15:00)
+DURUM: TAMAMLANDI
+====================================
+
+OGRENCI: Irem Aksit
+AKTS LIMITI: 24
+IZLENEN ROTA: [100] -> [110] -> [109] -> [103] -> [107] -> [114] -> [108] -> [112] -> [106]
+------------------------------------
+TOPLAM YURUME MESAFESI: 2580 metre
+------------------------------------
+GIRILEN DERSLER (8):
+  1. Ýstatistik  (Derslik: 110, Saat: 8:00)
+  2. Yabancý Dil II (Ýngilizce)    (Derslik: 109, Saat: 9:00)
+  3. Türk Dili I (Derslik: 103, Saat: 10:00)
+  4. Lineer Cebir (Derslik: 107, Saat: 11:00)
+  5. Mesleki Yabancý Dil I (Derslik: 114, Saat: 12:00)
+  6. Türk Dili II (Derslik: 108, Saat: 13:00)
+  7. Veri Yapýlarý (Derslik: 112, Saat: 14:00)
+  8. Algoritmalar ve Programlama (Derslik: 106, Saat: 15:00)
+DURUM: TAMAMLANDI
+====================================
+
+OGRENCI: Sahnur Abaci
+AKTS LIMITI: 30
+IZLENEN ROTA: [100] -> [109] -> [101] -> [107] -> [103] -> [114] -> [108] -> [115] -> [112] -> [106]
+------------------------------------
+TOPLAM YURUME MESAFESI: 3040 metre
+------------------------------------
+GIRILEN DERSLER (9):
+  1. Yabancý Dil II (Ýngilizce)    (Derslik: 109, Saat: 8:00)
+  2. Matematik I (Derslik: 101, Saat: 9:00)
+  3. Lineer Cebir (Derslik: 107, Saat: 10:00)
+  4. Türk Dili I (Derslik: 103, Saat: 11:00)
+  5. Mesleki Yabancý Dil I (Derslik: 114, Saat: 12:00)
+  6. Türk Dili II (Derslik: 108, Saat: 13:00)
+  7. Algoritma Tasarýmý ve Analizi (Derslik: 115, Saat: 14:00)
+  8. Veri Yapýlarý (Derslik: 112, Saat: 15:00)
+  9. Algoritmalar ve Programlama (Derslik: 106, Saat: 16:00)
+DURUM: TAMAMLANDI
+====================================
+
+OGRENCI: Onur Durak
+AKTS LIMITI: 30
+IZLENEN ROTA: [100] -> [109] -> [101] -> [107] -> [103] -> [114] -> [108] -> [115] -> [112] -> [106]
+------------------------------------
+TOPLAM YURUME MESAFESI: 3040 metre
+------------------------------------
+GIRILEN DERSLER (9):
+  1. Yabancý Dil II (Ýngilizce)    (Derslik: 109, Saat: 8:00)
+  2. Matematik I (Derslik: 101, Saat: 9:00)
+  3. Lineer Cebir (Derslik: 107, Saat: 10:00)
+  4. Türk Dili I (Derslik: 103, Saat: 11:00)
+  5. Mesleki Yabancý Dil I (Derslik: 114, Saat: 12:00)
+  6. Türk Dili II (Derslik: 108, Saat: 13:00)
+  7. Algoritma Tasarýmý ve Analizi (Derslik: 115, Saat: 14:00)
+  8. Veri Yapýlarý (Derslik: 112, Saat: 15:00)
+  9. Algoritmalar ve Programlama (Derslik: 106, Saat: 16:00)
+DURUM: TAMAMLANDI
+====================================
+
+OGRENCI: Burcu Aclan
+AKTS LIMITI: 30
+IZLENEN ROTA: [100] -> [109] -> [101] -> [107] -> [103] -> [114] -> [108] -> [115] -> [112] -> [106]
+------------------------------------
+TOPLAM YURUME MESAFESI: 3040 metre
+------------------------------------
+GIRILEN DERSLER (9):
+  1. Yabancý Dil II (Ýngilizce)    (Derslik: 109, Saat: 8:00)
+  2. Matematik I (Derslik: 101, Saat: 9:00)
+  3. Lineer Cebir (Derslik: 107, Saat: 10:00)
+  4. Türk Dili I (Derslik: 103, Saat: 11:00)
+  5. Mesleki Yabancý Dil I (Derslik: 114, Saat: 12:00)
+  6. Türk Dili II (Derslik: 108, Saat: 13:00)
+  7. Algoritma Tasarýmý ve Analizi (Derslik: 115, Saat: 14:00)
+  8. Veri Yapýlarý (Derslik: 112, Saat: 15:00)
+  9. Algoritmalar ve Programlama (Derslik: 106, Saat: 16:00)
+DURUM: TAMAMLANDI
+====================================
+
+OGRENCI: Ruya Karaer
+AKTS LIMITI: 30
+IZLENEN ROTA: [100] -> [109] -> [101] -> [107] -> [103] -> [114] -> [108] -> [115] -> [112] -> [106]
+------------------------------------
+TOPLAM YURUME MESAFESI: 3040 metre
+------------------------------------
+GIRILEN DERSLER (9):
+  1. Yabancý Dil II (Ýngilizce)    (Derslik: 109, Saat: 8:00)
+  2. Matematik I (Derslik: 101, Saat: 9:00)
+  3. Lineer Cebir (Derslik: 107, Saat: 10:00)
+  4. Türk Dili I (Derslik: 103, Saat: 11:00)
+  5. Mesleki Yabancý Dil I (Derslik: 114, Saat: 12:00)
+  6. Türk Dili II (Derslik: 108, Saat: 13:00)
+  7. Algoritma Tasarýmý ve Analizi (Derslik: 115, Saat: 14:00)
+  8. Veri Yapýlarý (Derslik: 112, Saat: 15:00)
+  9. Algoritmalar ve Programlama (Derslik: 106, Saat: 16:00)
+DURUM: TAMAMLANDI
+====================================
+
+OGRENCI: Esma Pektemek
+AKTS LIMITI: 30
+IZLENEN ROTA: [100] -> [109] -> [101] -> [107] -> [103] -> [114] -> [108] -> [115] -> [112] -> [106]
+------------------------------------
+TOPLAM YURUME MESAFESI: 3040 metre
+------------------------------------
+GIRILEN DERSLER (9):
+  1. Yabancý Dil II (Ýngilizce)    (Derslik: 109, Saat: 8:00)
+  2. Matematik I (Derslik: 101, Saat: 9:00)
+  3. Lineer Cebir (Derslik: 107, Saat: 10:00)
+  4. Türk Dili I (Derslik: 103, Saat: 11:00)
+  5. Mesleki Yabancý Dil I (Derslik: 114, Saat: 12:00)
+  6. Türk Dili II (Derslik: 108, Saat: 13:00)
+  7. Algoritma Tasarýmý ve Analizi (Derslik: 115, Saat: 14:00)
+  8. Veri Yapýlarý (Derslik: 112, Saat: 15:00)
+  9. Algoritmalar ve Programlama (Derslik: 106, Saat: 16:00)
+DURUM: TAMAMLANDI
+====================================
+
+OGRENCI: Turker Kocabiyik
+AKTS LIMITI: 30
+IZLENEN ROTA: [100] -> [109] -> [101] -> [107] -> [103] -> [114] -> [108] -> [115] -> [112] -> [106]
+------------------------------------
+TOPLAM YURUME MESAFESI: 3040 metre
+------------------------------------
+GIRILEN DERSLER (9):
+  1. Yabancý Dil II (Ýngilizce)    (Derslik: 109, Saat: 8:00)
+  2. Matematik I (Derslik: 101, Saat: 9:00)
+  3. Lineer Cebir (Derslik: 107, Saat: 10:00)
+  4. Türk Dili I (Derslik: 103, Saat: 11:00)
+  5. Mesleki Yabancý Dil I (Derslik: 114, Saat: 12:00)
+  6. Türk Dili II (Derslik: 108, Saat: 13:00)
+  7. Algoritma Tasarýmý ve Analizi (Derslik: 115, Saat: 14:00)
+  8. Veri Yapýlarý (Derslik: 112, Saat: 15:00)
+  9. Algoritmalar ve Programlama (Derslik: 106, Saat: 16:00)
+DURUM: TAMAMLANDI
+====================================
+
+OGRENCI: Berk Evliyaoglu
+AKTS LIMITI: 30
+IZLENEN ROTA: [100] -> [109] -> [101] -> [107] -> [103] -> [114] -> [108] -> [115] -> [112] -> [106]
+------------------------------------
+TOPLAM YURUME MESAFESI: 3040 metre
+------------------------------------
+GIRILEN DERSLER (9):
+  1. Yabancý Dil II (Ýngilizce)    (Derslik: 109, Saat: 8:00)
+  2. Matematik I (Derslik: 101, Saat: 9:00)
+  3. Lineer Cebir (Derslik: 107, Saat: 10:00)
+  4. Türk Dili I (Derslik: 103, Saat: 11:00)
+  5. Mesleki Yabancý Dil I (Derslik: 114, Saat: 12:00)
+  6. Türk Dili II (Derslik: 108, Saat: 13:00)
+  7. Algoritma Tasarýmý ve Analizi (Derslik: 115, Saat: 14:00)
+  8. Veri Yapýlarý (Derslik: 112, Saat: 15:00)
+  9. Algoritmalar ve Programlama (Derslik: 106, Saat: 16:00)
+DURUM: TAMAMLANDI
+====================================
+
+OGRENCI: Irem Dusenkalkar
+AKTS LIMITI: 30
+IZLENEN ROTA: [100] -> [109] -> [101] -> [107] -> [103] -> [114] -> [108] -> [115] -> [112] -> [106]
+------------------------------------
+TOPLAM YURUME MESAFESI: 3040 metre
+------------------------------------
+GIRILEN DERSLER (9):
+  1. Yabancý Dil II (Ýngilizce)    (Derslik: 109, Saat: 8:00)
+  2. Matematik I (Derslik: 101, Saat: 9:00)
+  3. Lineer Cebir (Derslik: 107, Saat: 10:00)
+  4. Türk Dili I (Derslik: 103, Saat: 11:00)
+  5. Mesleki Yabancý Dil I (Derslik: 114, Saat: 12:00)
+  6. Türk Dili II (Derslik: 108, Saat: 13:00)
+  7. Algoritma Tasarýmý ve Analizi (Derslik: 115, Saat: 14:00)
+  8. Veri Yapýlarý (Derslik: 112, Saat: 15:00)
+  9. Algoritmalar ve Programlama (Derslik: 106, Saat: 16:00)
+DURUM: TAMAMLANDI
+====================================
+
+OGRENCI: Sinem Daglaroglu
+AKTS LIMITI: 30
+IZLENEN ROTA: [100] -> [109] -> [101] -> [107] -> [103] -> [114] -> [108] -> [115] -> [112] -> [106]
+------------------------------------
+TOPLAM YURUME MESAFESI: 3040 metre
+------------------------------------
+GIRILEN DERSLER (9):
+  1. Yabancý Dil II (Ýngilizce)    (Derslik: 109, Saat: 8:00)
+  2. Matematik I (Derslik: 101, Saat: 9:00)
+  3. Lineer Cebir (Derslik: 107, Saat: 10:00)
+  4. Türk Dili I (Derslik: 103, Saat: 11:00)
+  5. Mesleki Yabancý Dil I (Derslik: 114, Saat: 12:00)
+  6. Türk Dili II (Derslik: 108, Saat: 13:00)
+  7. Algoritma Tasarýmý ve Analizi (Derslik: 115, Saat: 14:00)
+  8. Veri Yapýlarý (Derslik: 112, Saat: 15:00)
+  9. Algoritmalar ve Programlama (Derslik: 106, Saat: 16:00)
+DURUM: TAMAMLANDI
+====================================
+
+OGRENCI: Cagan Babaoglu
+AKTS LIMITI: 30
+IZLENEN ROTA: [100] -> [109] -> [101] -> [107] -> [103] -> [114] -> [108] -> [115] -> [112] -> [106]
+------------------------------------
+TOPLAM YURUME MESAFESI: 3040 metre
+------------------------------------
+GIRILEN DERSLER (9):
+  1. Yabancý Dil II (Ýngilizce)    (Derslik: 109, Saat: 8:00)
+  2. Matematik I (Derslik: 101, Saat: 9:00)
+  3. Lineer Cebir (Derslik: 107, Saat: 10:00)
+  4. Türk Dili I (Derslik: 103, Saat: 11:00)
+  5. Mesleki Yabancý Dil I (Derslik: 114, Saat: 12:00)
+  6. Türk Dili II (Derslik: 108, Saat: 13:00)
+  7. Algoritma Tasarýmý ve Analizi (Derslik: 115, Saat: 14:00)
+  8. Veri Yapýlarý (Derslik: 112, Saat: 15:00)
+  9. Algoritmalar ve Programlama (Derslik: 106, Saat: 16:00)
+DURUM: TAMAMLANDI
+====================================
+
+OGRENCI: Barlas Adivar
+AKTS LIMITI: 40
+IZLENEN ROTA: [100] -> [110] -> [109] -> [101] -> [107] -> [104] -> [103] -> [114] -> [108] -> [115] -> [112] -> [106]
+------------------------------------
+TOPLAM YURUME MESAFESI: 3040 metre
+------------------------------------
+GIRILEN DERSLER (11):
+  1. Ýstatistik  (Derslik: 110, Saat: 8:00)
+  2. Yabancý Dil II (Ýngilizce)    (Derslik: 109, Saat: 9:00)
+  3. Matematik I (Derslik: 101, Saat: 10:00)
+  4. Lineer Cebir (Derslik: 107, Saat: 11:00)
+  5. Matematik II (Derslik: 104, Saat: 12:00)
+  6. Türk Dili I (Derslik: 103, Saat: 13:00)
+  7. Mesleki Yabancý Dil I (Derslik: 114, Saat: 14:00)
+  8. Türk Dili II (Derslik: 108, Saat: 15:00)
+  9. Algoritma Tasarýmý ve Analizi (Derslik: 115, Saat: 16:00)
+  10. Veri Yapýlarý (Derslik: 112, Saat: 17:00)
+  11. Algoritmalar ve Programlama (Derslik: 106, Saat: 18:00)
+DURUM: TAMAMLANDI
+====================================
+
+OGRENCI: Berk Tasli
+AKTS LIMITI: 40
+IZLENEN ROTA: [100] -> [110] -> [109] -> [101] -> [107] -> [104] -> [103] -> [114] -> [108] -> [115] -> [112] -> [106]
+------------------------------------
+TOPLAM YURUME MESAFESI: 3040 metre
+------------------------------------
+GIRILEN DERSLER (11):
+  1. Ýstatistik  (Derslik: 110, Saat: 8:00)
+  2. Yabancý Dil II (Ýngilizce)    (Derslik: 109, Saat: 9:00)
+  3. Matematik I (Derslik: 101, Saat: 10:00)
+  4. Lineer Cebir (Derslik: 107, Saat: 11:00)
+  5. Matematik II (Derslik: 104, Saat: 12:00)
+  6. Türk Dili I (Derslik: 103, Saat: 13:00)
+  7. Mesleki Yabancý Dil I (Derslik: 114, Saat: 14:00)
+  8. Türk Dili II (Derslik: 108, Saat: 15:00)
+  9. Algoritma Tasarýmý ve Analizi (Derslik: 115, Saat: 16:00)
+  10. Veri Yapýlarý (Derslik: 112, Saat: 17:00)
+  11. Algoritmalar ve Programlama (Derslik: 106, Saat: 18:00)
+DURUM: TAMAMLANDI
+====================================
+
+OGRENCI: Ada Sarioglu
+AKTS LIMITI: 40
+IZLENEN ROTA: [100] -> [110] -> [109] -> [101] -> [107] -> [104] -> [103] -> [114] -> [108] -> [115] -> [112] -> [106]
+------------------------------------
+TOPLAM YURUME MESAFESI: 3040 metre
+------------------------------------
+GIRILEN DERSLER (11):
+  1. Ýstatistik  (Derslik: 110, Saat: 8:00)
+  2. Yabancý Dil II (Ýngilizce)    (Derslik: 109, Saat: 9:00)
+  3. Matematik I (Derslik: 101, Saat: 10:00)
+  4. Lineer Cebir (Derslik: 107, Saat: 11:00)
+  5. Matematik II (Derslik: 104, Saat: 12:00)
+  6. Türk Dili I (Derslik: 103, Saat: 13:00)
+  7. Mesleki Yabancý Dil I (Derslik: 114, Saat: 14:00)
+  8. Türk Dili II (Derslik: 108, Saat: 15:00)
+  9. Algoritma Tasarýmý ve Analizi (Derslik: 115, Saat: 16:00)
+  10. Veri Yapýlarý (Derslik: 112, Saat: 17:00)
+  11. Algoritmalar ve Programlama (Derslik: 106, Saat: 18:00)
+DURUM: TAMAMLANDI
+====================================
+
+OGRENCI: Sahnur Karaduman
+AKTS LIMITI: 40
+IZLENEN ROTA: [100] -> [110] -> [109] -> [101] -> [107] -> [104] -> [103] -> [114] -> [108] -> [115] -> [112] -> [106]
+------------------------------------
+TOPLAM YURUME MESAFESI: 3040 metre
+------------------------------------
+GIRILEN DERSLER (11):
+  1. Ýstatistik  (Derslik: 110, Saat: 8:00)
+  2. Yabancý Dil II (Ýngilizce)    (Derslik: 109, Saat: 9:00)
+  3. Matematik I (Derslik: 101, Saat: 10:00)
+  4. Lineer Cebir (Derslik: 107, Saat: 11:00)
+  5. Matematik II (Derslik: 104, Saat: 12:00)
+  6. Türk Dili I (Derslik: 103, Saat: 13:00)
+  7. Mesleki Yabancý Dil I (Derslik: 114, Saat: 14:00)
+  8. Türk Dili II (Derslik: 108, Saat: 15:00)
+  9. Algoritma Tasarýmý ve Analizi (Derslik: 115, Saat: 16:00)
+  10. Veri Yapýlarý (Derslik: 112, Saat: 17:00)
+  11. Algoritmalar ve Programlama (Derslik: 106, Saat: 18:00)
+DURUM: TAMAMLANDI
+====================================
+
+OGRENCI: Polat Akbulut
+AKTS LIMITI: 40
+IZLENEN ROTA: [100] -> [110] -> [109] -> [101] -> [107] -> [104] -> [103] -> [114] -> [108] -> [115] -> [112] -> [106]
+------------------------------------
+TOPLAM YURUME MESAFESI: 3040 metre
+------------------------------------
+GIRILEN DERSLER (11):
+  1. Ýstatistik  (Derslik: 110, Saat: 8:00)
+  2. Yabancý Dil II (Ýngilizce)    (Derslik: 109, Saat: 9:00)
+  3. Matematik I (Derslik: 101, Saat: 10:00)
+  4. Lineer Cebir (Derslik: 107, Saat: 11:00)
+  5. Matematik II (Derslik: 104, Saat: 12:00)
+  6. Türk Dili I (Derslik: 103, Saat: 13:00)
+  7. Mesleki Yabancý Dil I (Derslik: 114, Saat: 14:00)
+  8. Türk Dili II (Derslik: 108, Saat: 15:00)
+  9. Algoritma Tasarýmý ve Analizi (Derslik: 115, Saat: 16:00)
+  10. Veri Yapýlarý (Derslik: 112, Saat: 17:00)
+  11. Algoritmalar ve Programlama (Derslik: 106, Saat: 18:00)
+DURUM: TAMAMLANDI
+====================================
+
+OGRENCI: Ada Sinanoglu
+AKTS LIMITI: 40
+IZLENEN ROTA: [100] -> [110] -> [109] -> [101] -> [107] -> [104] -> [103] -> [114] -> [108] -> [115] -> [112] -> [106]
+------------------------------------
+TOPLAM YURUME MESAFESI: 3040 metre
+------------------------------------
+GIRILEN DERSLER (11):
+  1. Ýstatistik  (Derslik: 110, Saat: 8:00)
+  2. Yabancý Dil II (Ýngilizce)    (Derslik: 109, Saat: 9:00)
+  3. Matematik I (Derslik: 101, Saat: 10:00)
+  4. Lineer Cebir (Derslik: 107, Saat: 11:00)
+  5. Matematik II (Derslik: 104, Saat: 12:00)
+  6. Türk Dili I (Derslik: 103, Saat: 13:00)
+  7. Mesleki Yabancý Dil I (Derslik: 114, Saat: 14:00)
+  8. Türk Dili II (Derslik: 108, Saat: 15:00)
+  9. Algoritma Tasarýmý ve Analizi (Derslik: 115, Saat: 16:00)
+  10. Veri Yapýlarý (Derslik: 112, Saat: 17:00)
+  11. Algoritmalar ve Programlama (Derslik: 106, Saat: 18:00)
+DURUM: TAMAMLANDI
+====================================
+
+OGRENCI: Esma Tunaboylu
+AKTS LIMITI: 40
+IZLENEN ROTA: [100] -> [110] -> [109] -> [101] -> [107] -> [104] -> [103] -> [114] -> [108] -> [115] -> [112] -> [106]
+------------------------------------
+TOPLAM YURUME MESAFESI: 3040 metre
+------------------------------------
+GIRILEN DERSLER (11):
+  1. Ýstatistik  (Derslik: 110, Saat: 8:00)
+  2. Yabancý Dil II (Ýngilizce)    (Derslik: 109, Saat: 9:00)
+  3. Matematik I (Derslik: 101, Saat: 10:00)
+  4. Lineer Cebir (Derslik: 107, Saat: 11:00)
+  5. Matematik II (Derslik: 104, Saat: 12:00)
+  6. Türk Dili I (Derslik: 103, Saat: 13:00)
+  7. Mesleki Yabancý Dil I (Derslik: 114, Saat: 14:00)
+  8. Türk Dili II (Derslik: 108, Saat: 15:00)
+  9. Algoritma Tasarýmý ve Analizi (Derslik: 115, Saat: 16:00)
+  10. Veri Yapýlarý (Derslik: 112, Saat: 17:00)
+  11. Algoritmalar ve Programlama (Derslik: 106, Saat: 18:00)
+DURUM: TAMAMLANDI
+====================================
+
+OGRENCI: Ada Bademci
+AKTS LIMITI: 40
+IZLENEN ROTA: [100] -> [110] -> [109] -> [101] -> [107] -> [104] -> [103] -> [114] -> [108] -> [115] -> [112] -> [106]
+------------------------------------
+TOPLAM YURUME MESAFESI: 3040 metre
+------------------------------------
+GIRILEN DERSLER (11):
+  1. Ýstatistik  (Derslik: 110, Saat: 8:00)
+  2. Yabancý Dil II (Ýngilizce)    (Derslik: 109, Saat: 9:00)
+  3. Matematik I (Derslik: 101, Saat: 10:00)
+  4. Lineer Cebir (Derslik: 107, Saat: 11:00)
+  5. Matematik II (Derslik: 104, Saat: 12:00)
+  6. Türk Dili I (Derslik: 103, Saat: 13:00)
+  7. Mesleki Yabancý Dil I (Derslik: 114, Saat: 14:00)
+  8. Türk Dili II (Derslik: 108, Saat: 15:00)
+  9. Algoritma Tasarýmý ve Analizi (Derslik: 115, Saat: 16:00)
+  10. Veri Yapýlarý (Derslik: 112, Saat: 17:00)
+  11. Algoritmalar ve Programlama (Derslik: 106, Saat: 18:00)
+DURUM: TAMAMLANDI
+====================================
+
+OGRENCI: Emel Durak
+AKTS LIMITI: 40
+IZLENEN ROTA: [100] -> [110] -> [109] -> [101] -> [107] -> [104] -> [103] -> [114] -> [108] -> [115] -> [112] -> [106]
+------------------------------------
+TOPLAM YURUME MESAFESI: 3040 metre
+------------------------------------
+GIRILEN DERSLER (11):
+  1. Ýstatistik  (Derslik: 110, Saat: 8:00)
+  2. Yabancý Dil II (Ýngilizce)    (Derslik: 109, Saat: 9:00)
+  3. Matematik I (Derslik: 101, Saat: 10:00)
+  4. Lineer Cebir (Derslik: 107, Saat: 11:00)
+  5. Matematik II (Derslik: 104, Saat: 12:00)
+  6. Türk Dili I (Derslik: 103, Saat: 13:00)
+  7. Mesleki Yabancý Dil I (Derslik: 114, Saat: 14:00)
+  8. Türk Dili II (Derslik: 108, Saat: 15:00)
+  9. Algoritma Tasarýmý ve Analizi (Derslik: 115, Saat: 16:00)
+  10. Veri Yapýlarý (Derslik: 112, Saat: 17:00)
+  11. Algoritmalar ve Programlama (Derslik: 106, Saat: 18:00)
+DURUM: TAMAMLANDI
+====================================
+
+OGRENCI: Ebru Kececi
+AKTS LIMITI: 40
+IZLENEN ROTA: [100] -> [110] -> [109] -> [101] -> [107] -> [104] -> [103] -> [114] -> [108] -> [115] -> [112] -> [106]
+------------------------------------
+TOPLAM YURUME MESAFESI: 3040 metre
+------------------------------------
+GIRILEN DERSLER (11):
+  1. Ýstatistik  (Derslik: 110, Saat: 8:00)
+  2. Yabancý Dil II (Ýngilizce)    (Derslik: 109, Saat: 9:00)
+  3. Matematik I (Derslik: 101, Saat: 10:00)
+  4. Lineer Cebir (Derslik: 107, Saat: 11:00)
+  5. Matematik II (Derslik: 104, Saat: 12:00)
+  6. Türk Dili I (Derslik: 103, Saat: 13:00)
+  7. Mesleki Yabancý Dil I (Derslik: 114, Saat: 14:00)
+  8. Türk Dili II (Derslik: 108, Saat: 15:00)
+  9. Algoritma Tasarýmý ve Analizi (Derslik: 115, Saat: 16:00)
+  10. Veri Yapýlarý (Derslik: 112, Saat: 17:00)
+  11. Algoritmalar ve Programlama (Derslik: 106, Saat: 18:00)
+DURUM: TAMAMLANDI
+====================================
+
+OGRENCI: Baran Asikoglu
+AKTS LIMITI: 45
+IZLENEN ROTA: [100] -> [110] -> [109] -> [111] -> [101] -> [107] -> [103] -> [114] -> [108] -> [112] -> [102] -> [105] -> [106]
+------------------------------------
+TOPLAM YURUME MESAFESI: 3350 metre
+------------------------------------
+GIRILEN DERSLER (12):
+  1. Ýstatistik  (Derslik: 110, Saat: 8:00)
+  2. Yabancý Dil II (Ýngilizce)    (Derslik: 109, Saat: 9:00)
+  3. Diferansiyel Denklemler (Derslik: 111, Saat: 10:00)
+  4. Matematik I (Derslik: 101, Saat: 11:00)
+  5. Lineer Cebir (Derslik: 107, Saat: 12:00)
+  6. Türk Dili I (Derslik: 103, Saat: 13:00)
+  7. Mesleki Yabancý Dil I (Derslik: 114, Saat: 14:00)
+  8. Türk Dili II (Derslik: 108, Saat: 15:00)
+  9. Veri Yapýlarý (Derslik: 112, Saat: 16:00)
+  10. Programlama I (Derslik: 102, Saat: 17:00)
+  11. Bilgisayar Bilimlerine Giriþ (Derslik: 105, Saat: 18:00)
+  12. Algoritmalar ve Programlama (Derslik: 106, Saat: 19:00)
+DURUM: TAMAMLANDI
+====================================
+
+OGRENCI: Esma Adivar
+AKTS LIMITI: 45
+IZLENEN ROTA: [100] -> [110] -> [109] -> [111] -> [101] -> [107] -> [103] -> [114] -> [108] -> [112] -> [102] -> [105] -> [106]
+------------------------------------
+TOPLAM YURUME MESAFESI: 3350 metre
+------------------------------------
+GIRILEN DERSLER (12):
+  1. Ýstatistik  (Derslik: 110, Saat: 8:00)
+  2. Yabancý Dil II (Ýngilizce)    (Derslik: 109, Saat: 9:00)
+  3. Diferansiyel Denklemler (Derslik: 111, Saat: 10:00)
+  4. Matematik I (Derslik: 101, Saat: 11:00)
+  5. Lineer Cebir (Derslik: 107, Saat: 12:00)
+  6. Türk Dili I (Derslik: 103, Saat: 13:00)
+  7. Mesleki Yabancý Dil I (Derslik: 114, Saat: 14:00)
+  8. Türk Dili II (Derslik: 108, Saat: 15:00)
+  9. Veri Yapýlarý (Derslik: 112, Saat: 16:00)
+  10. Programlama I (Derslik: 102, Saat: 17:00)
+  11. Bilgisayar Bilimlerine Giriþ (Derslik: 105, Saat: 18:00)
+  12. Algoritmalar ve Programlama (Derslik: 106, Saat: 19:00)
+DURUM: TAMAMLANDI
+====================================
+
+OGRENCI: Askin Arican
+AKTS LIMITI: 45
+IZLENEN ROTA: [100] -> [110] -> [109] -> [111] -> [101] -> [107] -> [103] -> [114] -> [108] -> [112] -> [102] -> [105] -> [106]
+------------------------------------
+TOPLAM YURUME MESAFESI: 3350 metre
+------------------------------------
+GIRILEN DERSLER (12):
+  1. Ýstatistik  (Derslik: 110, Saat: 8:00)
+  2. Yabancý Dil II (Ýngilizce)    (Derslik: 109, Saat: 9:00)
+  3. Diferansiyel Denklemler (Derslik: 111, Saat: 10:00)
+  4. Matematik I (Derslik: 101, Saat: 11:00)
+  5. Lineer Cebir (Derslik: 107, Saat: 12:00)
+  6. Türk Dili I (Derslik: 103, Saat: 13:00)
+  7. Mesleki Yabancý Dil I (Derslik: 114, Saat: 14:00)
+  8. Türk Dili II (Derslik: 108, Saat: 15:00)
+  9. Veri Yapýlarý (Derslik: 112, Saat: 16:00)
+  10. Programlama I (Derslik: 102, Saat: 17:00)
+  11. Bilgisayar Bilimlerine Giriþ (Derslik: 105, Saat: 18:00)
+  12. Algoritmalar ve Programlama (Derslik: 106, Saat: 19:00)
+DURUM: TAMAMLANDI
+====================================
+
+OGRENCI: Ebru Kocabiyik
+AKTS LIMITI: 45
+IZLENEN ROTA: [100] -> [110] -> [109] -> [111] -> [101] -> [107] -> [103] -> [114] -> [108] -> [112] -> [102] -> [105] -> [106]
+------------------------------------
+TOPLAM YURUME MESAFESI: 3350 metre
+------------------------------------
+GIRILEN DERSLER (12):
+  1. Ýstatistik  (Derslik: 110, Saat: 8:00)
+  2. Yabancý Dil II (Ýngilizce)    (Derslik: 109, Saat: 9:00)
+  3. Diferansiyel Denklemler (Derslik: 111, Saat: 10:00)
+  4. Matematik I (Derslik: 101, Saat: 11:00)
+  5. Lineer Cebir (Derslik: 107, Saat: 12:00)
+  6. Türk Dili I (Derslik: 103, Saat: 13:00)
+  7. Mesleki Yabancý Dil I (Derslik: 114, Saat: 14:00)
+  8. Türk Dili II (Derslik: 108, Saat: 15:00)
+  9. Veri Yapýlarý (Derslik: 112, Saat: 16:00)
+  10. Programlama I (Derslik: 102, Saat: 17:00)
+  11. Bilgisayar Bilimlerine Giriþ (Derslik: 105, Saat: 18:00)
+  12. Algoritmalar ve Programlama (Derslik: 106, Saat: 19:00)
+DURUM: TAMAMLANDI
+====================================
+

@@ -1,0 +1,21 @@
+Ders ID	Dersin adý	Zorunlu / Seçmeli 	AKTS	Ön Þart Ders ID	Derslik ID
+1	Matematik I	S	5		101
+2	Programlama I	Z	8		102
+3	Türk Dili I	Z	1		103
+4	Matematik II	S	6	1	104
+5	Bilgisayar Bilimlerine Giriþ	S	4		105
+6	Algoritmalar ve Programlama	Z	6	2	106
+7	Lineer Cebir	Z	3		107
+8	Türk Dili II	Z	1		108
+9	Yabancý Dil II (Ýngilizce)   	S	1		109
+10	Ýstatistik 	Z	4	4	110
+11	Diferansiyel Denklemler	S	4	1	111
+12	Veri Yapýlarý	Z	5	13	112
+13	Nesneye Dayalý Programlama	S	5	6	113
+14	Mesleki Yabancý Dil I	Z	3		114
+15	Algoritma Tasarýmý ve Analizi	Z	5	12	115
+16	Ýþaretler ve Sistemler	S	4	11	116
+17	Yapay Zeka 	S	4	12	117
+18	Veri Madenciliði 	S	6	12	118
+19	Bitirme Projesi II	Z	8	20	119
+20	Bitirme Projesi1	Z	8		120
